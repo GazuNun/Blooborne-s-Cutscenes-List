@@ -17,7 +17,7 @@ HUNTER'S DREAM
 CATHEDRAL WARD		
 	s24_00_0000	--- "Curse their fiends"....
 	s24_00_0000 --- (alpha)	[alpha] Mobs patrolling (brokenish)
-	s24_00_0020	--- ntering the Cathedral Ward
+	s24_00_0020	--- Entering the Cathedral Ward
 	s24_00_0020 --- (alpha)	[alpha] Entering Cathedral with showcase of the city 
 	s24_00_0030	--- Lawrence's Skull flashback
 	s24_00_0030	--- [alpha] 1 second frame of the city (brokenish)
