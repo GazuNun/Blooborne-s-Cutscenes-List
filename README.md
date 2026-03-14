@@ -5,6 +5,7 @@ BLOODBORNE - Cutscene's List
 compiled by Gazu		
 
 HUNTER'S DREAM		
+
 	s21_00_0000	--- Hunter's Dream first entrance
 	
 	s21_00_0010	--- Ending A - First Scene
