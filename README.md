@@ -24,6 +24,7 @@ HUNTER'S DREAM
 	
   
 CATHEDRAL WARD		
+
 	s24_00_0000	--- "Curse their fiends"....
 	
 	s24_00_0000 --- (alpha)	[alpha] Mobs patrolling (brokenish)
@@ -46,6 +47,7 @@ CATHEDRAL WARD
 	
   
 CENTRAL YHARNAM		
+
 	s24_01_0000	--- [unused] Doctor's short aproach
 	
 	s24_01_0005	--- Game Intro
@@ -58,10 +60,12 @@ CENTRAL YHARNAM
 	
   
 UPPER CATHEDRAL WARD		
+
 	s24_02_0000	--- Empty Cutscene [broken]
 	
   
 FORSAKEN CASTLE CAINHURST		
+
 	s25_00_0000	--- Arriving at castle Cainhurst
 	
 	s25_00_0010	--- Using Crown of Illusions 
@@ -70,6 +74,7 @@ FORSAKEN CASTLE CAINHURST
 	
   
 NIGHTMARE OF MENSIS		
+
 	s26_00_0000	--- [unused] Rising Bridge and opening door after Mikolash
 	
 	s26_00_0005	--- Rising Bridge after Mikolash
@@ -92,16 +97,19 @@ YAH'AR GUL
 	
   
 BYRGENWERTH		
+
 	s32_00_0000	--- Red moon over the lake
 	
   
 NIGHTMARE FRONTIER		
+
 	s33_00_0000	--- Patches pushes you from the ledge
 	
 	s33_00_1000	--- Patches pushes you from the ledge (for Female char)
 	
   
 HUNTER'S NIGHTMARE		
+
 	s34_00_0010	--- Laurence awakens
 	
 	s34_00_0020	--- Ludwig the acursed aproaches
@@ -112,12 +120,14 @@ HUNTER'S NIGHTMARE
 	
   
 RESEARCH HALL		
+
 	s35_00_0000	--- Elevator rises with eye into head
 	
 	s35_00_0010	--- Lady Maria awakens
 	
   
 FISHING HAMLET		
+
 	s36_00_0000	--- Orphan of Kosm abirths
 	
 	s36_00_0010	--- Nightmare ends
