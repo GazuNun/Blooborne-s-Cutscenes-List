@@ -6,13 +6,21 @@ compiled by Gazu
 
 HUNTER'S DREAM		
 	s21_00_0000	--- Hunter's Dream first entrance
+	
 	s21_00_0010	--- Ending A - First Scene
+	
 	s21_00_0020	--- Ending B - Moonpresence Criples you
+	
 	s21_00_0030	--- Ending C - Become GreatOne
+	
 	s21_00_0040	--- Refuse execution and face Gehrman
+	
 	s21_00_0050	--- Refusing Moonpresence
+	
 	s21_00_1010	--- Ending A - First Scene (for Female[?])
+	
 	s21_00_1030	--- Ending C - Become GreatOne (for Female[?])
+	
   
 CATHEDRAL WARD		
 	s24_00_0000	--- "Curse their fiends"....
